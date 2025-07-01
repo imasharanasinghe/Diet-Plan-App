@@ -3,7 +3,7 @@
 A smart diet planning app that helps users and nutritionists create, manage, and follow personalized meal plans for healthier living.
 
 This project was designed in Figma. You can view the full design here:
-[View Figma Design]([https://www.figma.com/file/your-figma-file-link](https://www.figma.com/proto/7ZxaBshCWx4sKp0hMNm6s5/VitaCore?node-id=247-498&t=mZ6a64u7EzZsrq9C-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=244%3A380&show-proto-sidebar=1)
+[View Figma Design]([https://www.figma.com/file/your-figma-file-link](https://www.figma.com/proto/7ZxaBshCWx4sKp0hMNm6s5/VitaCore?node-id=244-380&t=mZ6a64u7EzZsrq9C-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=244%3A380&show-proto-sidebar=1)
 
 ### Features
 
