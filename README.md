@@ -1,4 +1,4 @@
-## VitaCore — Smart Diet Planning App UI/UX Design
+## VitaCore - Smart Diet Planning App UI/UX Design
 
 A smart diet planning app that helps users and nutritionists create, manage, and follow personalized meal plans for healthier living.
 
